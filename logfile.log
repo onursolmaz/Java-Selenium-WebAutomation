@@ -1,0 +1,6 @@
+2021-05-28 03:36:45,257 INFO  [Log] HomePage() SUCCESS 
+2021-05-28 03:36:50,139 INFO  [Log] LoginPage() SUCCESS 
+2021-05-28 03:36:54,169 INFO  [Log] search() SUCCESS 
+2021-05-28 03:36:56,727 INFO  [Log] produtcs() SUCCESS 
+2021-05-28 03:36:59,152 INFO  [Log] addToCart() SUCCESS 
+2021-05-28 03:37:00,852 ERROR [Log] Basket() FAILED due to Prices not match  expected:<1[7.433,9]0 TL> but was:<1[5.849,0]0 TL> 
